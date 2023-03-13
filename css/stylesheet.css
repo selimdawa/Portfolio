@@ -3874,3 +3874,9 @@ section .svg {
 svg:not(:root) {
     overflow: hidden;
 }
+
+.btn-custom{
+	padding: 2.5px;
+	font-size: 12px;
+	margin-bottom: 18px;
+}
