@@ -1,3 +1,3 @@
 # My Portfolio
 
-### [Live Site](httpsselimdawa.github.ioportfolio)
+### [Live Site](https://selimdawa.github.io/portfolio/)
